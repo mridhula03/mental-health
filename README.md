@@ -9,3 +9,4 @@ adolescents. The app utilizes well-established screening tools and includes a us
 adolescents to provide responses confidentially. Results indicate that the app is effective in identifying possible mental
 health issues in adolescents and could be an essential tool in the early identification of potential mental health issues.
 
+/////
